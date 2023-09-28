@@ -1,0 +1,1 @@
+# fluxcd-kubectl-demo
